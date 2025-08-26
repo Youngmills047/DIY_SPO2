@@ -36,9 +36,6 @@ Misc: Resistors, capacitors, push buttons, connectors
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/DIY-SPO2.git
-
-cd DIY-SPO2-Monitor/firmware
 
 2️⃣ Install Arduino Libraries
 
