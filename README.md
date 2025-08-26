@@ -25,14 +25,19 @@ Open-source and customizable
 🛠 Components Used
 
 Arduino Nano (ATmega328P)
+
 MAX30102 Pulse Oximeter & Heart Rate Sensor
+
 SSD1306 OLED Display (128x64, I2C)
+
 Misc: Resistors, capacitors, push buttons, connectors
 
 🔧 Getting Started
+
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/DIY-SPO2-Monitor.git
+git clone https://github.com/your-username/DIY-SPO2.git
+
 cd DIY-SPO2-Monitor/firmware
 
 2️⃣ Install Arduino Libraries
