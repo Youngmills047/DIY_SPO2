@@ -36,6 +36,7 @@ Misc: Resistors, capacitors, push buttons, connectors
 
 1️⃣ Clone the Repository
 
+https://github.com/Youngmills047/DIY_SPO2.git
 
 2️⃣ Install Arduino Libraries
 
